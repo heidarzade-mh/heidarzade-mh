@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Setaeh Analytics Playform
-- 🌱 I’m currently learning Asp.NET core
+- 🔭 I’m currently working on Setaeh Analytics Platform
 <!--
 **heidarzade-mh/heidarzade-mh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
